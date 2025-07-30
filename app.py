@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("My First Streamlit App")
+st.title("Kryptonic")
 st.write("Hello, Streamlit!")
 
 # Add an interactive widget
